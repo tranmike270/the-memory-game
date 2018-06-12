@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Izuku Midoriya",
+        "anime": "My Hero Academia",
+        "src": "icon1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Izuku Midoriya",
+        "anime": "My Hero Academia",
+        "src": "icon2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "L. Lawliet",
+        "anime": "Death Note",
+        "src": "icon3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Yusa Kurobane",
+        "anime": "Charlotte",
+        "src": "icon4.jpg"
+    },    
+    {
+        "id": 5,
+        "name": "Tōshirō Hitsugaya",
+        "anime": "Bleach",
+        "src": "icon5.jpg"
+    },    
+    {
+        "id": 6,
+        "name": "Tsunayoshi Sawada",
+        "anime": "Reborn!",
+        "src": "icon6.png"
+    },    
+    {
+        "id": 7,
+        "name": "Erina Nakiri",
+        "anime": "Shokugeki no Souma",
+        "src": "icon7.jpg"
+    },    
+    {
+        "id": 8,
+        "name": "Kaori Miyazono",
+        "anime": "Your Lie In April",
+        "src": "icon8.jpg"
+    },    
+    {
+        "id": 9,
+        "name": "Kousei Arima",
+        "anime": "Your Lie In April",
+        "src": "icon9.jpg"
+    },    
+    {
+        "id": 10,
+        "name": "Tsunayoshi Sawada",
+        "anime": "Reborn!",
+        "src": "icon10.jpg"
+    },    
+    {
+        "id": 11,
+        "name": "All Might",
+        "anime": "My Hero Academia",
+        "src": "icon11.jpg"
+    },    
+    {
+        "id": 12,
+        "name": "Goku Black",
+        "anime": "Dragon Ball Super",
+        "src": "icon12.png"
+    },    
+    {
+        "id": 13,
+        "name": "All Might",
+        "anime": "My Hero Academia",
+        "src": "icon13.png"
+    },    
+    {
+        "id": 14,
+        "name": "Izuku Midoriya",
+        "anime": "My Hero Academia",
+        "src": "icon14.png"
+    },    
+    {
+        "id": 15,
+        "name": "Eishi Tsukasa",
+        "anime": "Shokugeki no Souma",
+        "src": "icon15.png"
+    },    
+    {
+        "id": 16,
+        "name": "Sōma Yukihira",
+        "anime": "Shokugeki no Souma",
+        "src": "icon16.png"
+    },    
+    {
+        "id": 17,
+        "name": "Tsunayoshi Sawada",
+        "anime": "Reborn!",
+        "src": "icon17.png"
+    },    
+    {
+        "id": 18,
+        "name": "Tobio Kageyama",
+        "anime": "Haikyuu!!",
+        "src": "icon18.png"
+    },    
+    {
+        "id": 19,
+        "name": "Hanzō Urushihara",
+        "anime": "The Devil Is a Part-Timer!",
+        "src": "icon19.png"
+    },    
+    {
+        "id": 20,
+        "name": "Ichigo Kurosaki",
+        "anime": "Bleach",
+        "src": "icon20.jpg"
+    },    
+    {
+        "id": 21,
+        "name": "Ichigo Kurosaki(Final Getsuga)",
+        "anime": "Bleach",
+        "src": "icon21.jpg"
+    },    
+    {
+        "id": 22,
+        "name": "Naruto Uzumaki",
+        "anime": "Naruto",
+        "src": "icon22.png"
+    },    
+    {
+        "id": 23,
+        "name": "Itachi Uchiha",
+        "anime": "Naruto",
+        "src": "icon23.png"
+    },    
+    {
+        "id": 24,
+        "name": "Naruto",
+        "anime": "Naruto",
+        "src": "icon24.jpg"
+    },    
+    {
+        "id": 25,
+        "name": "Vegata (SSG)",
+        "anime": "Dragon Ball Super",
+        "src": "icon25.jpg"
+    }
+]

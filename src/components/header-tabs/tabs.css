@@ -1,0 +1,107 @@
+#navbar {
+    position: fixed;
+    min-height: 70px;
+    -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    background: gray;
+    color: white;
+    width: 100%;
+    z-index: 99;
+    white-space: nowrap;
+    margin: 0;
+    padding:0;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  li {
+    display: inline-block;
+    width: 33.33%;
+    text-align: center;
+    padding: 26px 0;
+  }
+
+  .nav-logo {
+  
+  }
+  
+  .nav-instructions {
+  
+  }
+  
+  a:-webkit-any-link {
+    cursor: pointer;
+    pointer-events: auto;
+  }
+
+  .nav-user a{
+    text-decoration: none;
+    color: white;
+    width: 45%;
+    height: 50%;
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  
+  .nav-user a:active {
+    top: 3px;
+  }
+  
+  .login:active {
+    box-shadow: 0px 3px 0px #4492b1;
+  }
+  
+  .signup:active {
+    box-shadow: 0px 3px 0px 0px #b14452;
+  
+  }
+  
+  .login {
+    padding: 8px 14px;
+    margin: 15px 0px 15px 40px;
+    background: #63d3ff;
+    box-shadow: 0px 6px 0px 0px #4492b1, 0px 0px 4px 0px #bbb;
+  
+  }
+  .signup {
+    padding: 8px;
+    margin: 15px 0px 15px 40px;
+    background: rgb(248, 85, 85);
+    box-shadow: 0px 6px 0px 0px #b14452, 0px 0px 4px 0px #bbb;
+  
+  
+  }
+  
+  
+
+
+  
+  .header {
+    text-align: center;
+    background-image: url('./images/header-background.jpg');
+    background-size: cover;
+    color: white;
+    padding-top: 100px;
+    position: relative;
+    height: 450px;
+  }
+  
+  .header-content{
+    position: absolute;
+    width:100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .game-body {
+
+  }
