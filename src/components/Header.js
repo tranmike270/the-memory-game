@@ -41,7 +41,7 @@ class Header extends React.Component {
         
         return(
             <div>
-                <Navbar toggleTab={this.toggleTab.bind(this)}/>
+                <Navbar toggleTab={this.toggleTab.bind(this)} points = {this.props.points} playing = {this.props.playing} outcome = {this.props.outcome} />
                 <header className="header tab-list">
                     <div className="header-content">
                         {currentTab}

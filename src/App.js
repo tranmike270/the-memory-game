@@ -36,6 +36,7 @@ class App extends Component {
   getCharacters(){
     let characters = this.state.characters.map(character => {
         character.chosen = false;
+        character.selected = false;
         return character;
     });
 
@@ -53,12 +54,14 @@ class App extends Component {
 
   }
 
-  endGame(){
+  endGame(theOutcome){
+    const outcome = theOutcome;
+    console.log(theOutcome);
     this.componentWillMount();
     this.setState({
       playing: false,
       tabDisplayed : "main",
-      outcome : "loss"
+      outcome : outcome
       });
   };
 
@@ -97,11 +100,8 @@ class App extends Component {
         characters: shuffleArray(characters),
         points: newPoints});
     
-    if(newPoints.current === 25){
-      this.setState({
-        outcome : "win",
-        playing : false,
-        });
+    if(newPoints.current % 25 === 0){
+        this.endGame("win");
     };
   };
 

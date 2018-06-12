@@ -22,9 +22,11 @@ class MainBody extends Component {
                 </div>
             )
         }else if(this.props.outcome === "win"){
-            <div>
+            return(
+                <div>
                 I the Winna
                 </div>
+            )
         } else {
             return (
                 <div className="main-container">

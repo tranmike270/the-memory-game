@@ -23,9 +23,9 @@ class CharacterCard extends Component {
       if(props.character.selected){
         return (
     
-          <a className="card selected" onClick={this.endGame.bind(this, props.character.id)}>
+          <div className="card selected" onClick={this.endGame.bind(this, "loss", props.character.id)}>
             <CardBody character={props.character}/>
-          </a>
+          </div>
           
         )
       }else {
